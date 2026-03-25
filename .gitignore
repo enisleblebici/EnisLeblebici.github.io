@@ -1,0 +1,19 @@
+# Temp files
+*.bak
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Data source files (keep only processed assets)
+data/*.pptx
+data/*.MP4
+data/*.mp4
+data/ChatGPT*
+data/Gyroid.png
+data/TranslucentMonolith.jpg
+data/pptx_tmp/
+
+# Large original video
+assets/aerosol-video-fixed.mp4

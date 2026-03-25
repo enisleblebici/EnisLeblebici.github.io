@@ -1,0 +1,82 @@
+[
+  {
+    "year": 2026,
+    "venue": "",
+    "title": "MultiPUFFIN: A Multimodal Domain-Constrained Foundation Model for Molecular Property Prediction of Small Molecules",
+    "summary": "Predicting physicochemical properties across chemical space is vital for chemical engineering, drug discovery, and materials science. Current molecular foundation models lack thermodynamic consistency, while domain-informed approaches are limited to single properties and small datasets. We introduce",
+    "paperUrl": "",
+    "doiUrl": ""
+  },
+  {
+    "year": 2026,
+    "venue": "Chemical Engineering Journal Advances",
+    "title": "Improving process systems engineering with specialized multi-agent large language models",
+    "summary": "",
+    "paperUrl": "https://doi.org/10.1016/j.ceja.2026.101141",
+    "doiUrl": "https://doi.org/10.1016/j.ceja.2026.101141"
+  },
+  {
+    "year": 2025,
+    "venue": "Chemical Engineering Journal Advances",
+    "title": "ExPUFFIN: Thermodynamic consistent viscosity prediction in an Extended Path-Unifying Feed-Forward Interfaced Network",
+    "summary": "Accurate prediction of liquid viscosity is essential for process design and simulation, yet remains challenging for novel molecules. Conventional group-contribution models struggle with isomer discrimination, large molecules, and parameter availability, while purely data-driven graph neural networks",
+    "paperUrl": "https://doi.org/10.1016/j.ceja.2026.101129",
+    "doiUrl": "https://doi.org/10.1016/j.ceja.2026.101129"
+  },
+  {
+    "year": 2025,
+    "venue": "Chemical Engineering and Processing - Process Intensification",
+    "title": "Physics-informed machine learning predicting CO2 capture performances of organic mixtures",
+    "summary": "",
+    "paperUrl": "https://doi.org/10.1016/j.cep.2025.110410",
+    "doiUrl": "https://doi.org/10.1016/j.cep.2025.110410"
+  },
+  {
+    "year": 2025,
+    "venue": "Systems and Control Transactions",
+    "title": "Structural Optimization of Translucent Monolith Reactors through Multi-objective Bayesian Optimization",
+    "summary": "Photochemical monolith reactors offer advantages over microreactors by providing high mixing efficiency and surface area to volume ratio while being scalable. However, optimizing monolith design parameters like channel number, shape, and stacking is critical to maximizing light usage and reactor eff",
+    "paperUrl": "https://doi.org/10.69997/sct.132003",
+    "doiUrl": "https://doi.org/10.69997/sct.132003"
+  },
+  {
+    "year": 2025,
+    "venue": "Systems and Control Transactions",
+    "title": "Predicting Surface Tension of Organic Molecules using COSMO-RS Theory and Machine Learning",
+    "summary": "Surface tension is a fundamental property at the liquid/gas interface, influencing phenomena such as capillary action, droplet formation, and interfacial behavior in chemical engineering processes. Despite its significance, experimental determination of surface tension is time-intensive and impracti",
+    "paperUrl": "https://doi.org/10.69997/sct.187062",
+    "doiUrl": "https://doi.org/10.69997/sct.187062"
+  },
+  {
+    "year": 2025,
+    "venue": "Systems and Control Transactions",
+    "title": "Hybrid Models Identification and Training through Evolutionary Algorithms",
+    "summary": "Hybrid modelling is widely employed in chemical engineering to generate highly accurate predictions. Such an approach merges first-principle modelling with machine learning techniques to identify and model the epistemic uncertainty from experimental data. Despite its advantages, this still requires ",
+    "paperUrl": "https://doi.org/10.69997/sct.192790",
+    "doiUrl": "https://doi.org/10.69997/sct.192790"
+  },
+  {
+    "year": 2025,
+    "venue": "Chemical Engineering Science",
+    "title": "SINDybrid: automatic generation of hybrid models for dynamic systems",
+    "summary": "Hybrid modelling enhances the accuracy and predictive capability of dynamic models by integrating first principles with data-driven methods, effectively mitigating epistemic uncertainties inherent in mechanistic approaches. However, hybrid model construction remains complex, typically requiring expe",
+    "paperUrl": "https://doi.org/10.1016/j.ces.2025.122873",
+    "doiUrl": "https://doi.org/10.1016/j.ces.2025.122873"
+  },
+  {
+    "year": 2025,
+    "venue": "Chemical Engineering and Processing - Process Intensification",
+    "title": "AI-aided process intensification of structures",
+    "summary": "",
+    "paperUrl": "https://doi.org/10.1016/j.cep.2025.110406",
+    "doiUrl": "https://doi.org/10.1016/j.cep.2025.110406"
+  },
+  {
+    "year": 2025,
+    "venue": "Chemical Engineering Research and Design",
+    "title": "Towards Facile Deep Learning Architectures for Chemical Processes: Simultaneous Pseudo-Global Training and Economic Synthesis",
+    "summary": "",
+    "paperUrl": "https://doi.org/10.1016/j.cherd.2025.05.046",
+    "doiUrl": "https://doi.org/10.1016/j.cherd.2025.05.046"
+  }
+]
