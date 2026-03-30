@@ -1,6 +1,14 @@
 [
   {
     "year": 2026,
+    "venue": "Journal of Process Control",
+    "title": "A robust framework based on symbolic regression to develop controllers for crystallization processes",
+    "summary": "",
+    "paperUrl": "https://doi.org/10.1016/j.jprocont.2026.103700",
+    "doiUrl": "https://doi.org/10.1016/j.jprocont.2026.103700"
+  },
+  {
+    "year": 2026,
     "venue": "",
     "title": "MultiPUFFIN: A Multimodal Domain-Constrained Foundation Model for Molecular Property Prediction of Small Molecules",
     "summary": "Predicting physicochemical properties across chemical space is vital for chemical engineering, drug discovery, and materials science. Current molecular foundation models lack thermodynamic consistency, while domain-informed approaches are limited to single properties and small datasets. We introduce",
@@ -70,13 +78,5 @@
     "summary": "",
     "paperUrl": "https://doi.org/10.1016/j.cep.2025.110406",
     "doiUrl": "https://doi.org/10.1016/j.cep.2025.110406"
-  },
-  {
-    "year": 2025,
-    "venue": "Chemical Engineering Research and Design",
-    "title": "Towards Facile Deep Learning Architectures for Chemical Processes: Simultaneous Pseudo-Global Training and Economic Synthesis",
-    "summary": "",
-    "paperUrl": "https://doi.org/10.1016/j.cherd.2025.05.046",
-    "doiUrl": "https://doi.org/10.1016/j.cherd.2025.05.046"
   }
 ]
