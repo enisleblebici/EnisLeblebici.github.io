@@ -9,11 +9,11 @@
   },
   {
     "year": 2026,
-    "venue": "",
+    "venue": "ArXiv",
     "title": "MultiPUFFIN: A Multimodal Domain-Constrained Foundation Model for Molecular Property Prediction of Small Molecules",
     "summary": "Predicting physicochemical properties across chemical space is vital for chemical engineering, drug discovery, and materials science. Current molecular foundation models lack thermodynamic consistency, while domain-informed approaches are limited to single properties and small datasets. We introduce",
-    "paperUrl": "",
-    "doiUrl": ""
+    "paperUrl": "https://doi.org/10.48550/arXiv.2603.00857",
+    "doiUrl": "https://doi.org/10.48550/arXiv.2603.00857"
   },
   {
     "year": 2026,
