@@ -25,19 +25,19 @@
   },
   {
     "year": 2026,
-    "venue": "ArXiv",
-    "title": "MultiPUFFIN: A Multimodal Domain-Constrained Foundation Model for Molecular Property Prediction of Small Molecules",
-    "summary": "Predicting physicochemical properties across chemical space is vital for chemical engineering, drug discovery, and materials science. Current molecular foundation models lack thermodynamic consistency, while domain-informed approaches are limited to single properties and small datasets. We introduce",
-    "paperUrl": "https://doi.org/10.48550/arXiv.2603.00857",
-    "doiUrl": "https://doi.org/10.48550/arXiv.2603.00857"
-  },
-  {
-    "year": 2026,
     "venue": "Chemical Engineering Journal Advances",
     "title": "Improving process systems engineering with specialized multi-agent large language models",
     "summary": "",
     "paperUrl": "https://doi.org/10.1016/j.ceja.2026.101141",
     "doiUrl": "https://doi.org/10.1016/j.ceja.2026.101141"
+  },
+  {
+    "year": 2026,
+    "venue": "ArXiv",
+    "title": "MultiPUFFIN: A Multimodal Domain-Constrained Foundation Model for Molecular Property Prediction of Small Molecules",
+    "summary": "MultiPUFFIN is a domain-informed multimodal foundation model for predicting thermophysical properties of small molecules, addressing a critical gap in chemical engineering, drug discovery, and materials science. Existing molecular foundation models pretrain on millions of molecules to learn general-",
+    "paperUrl": "https://doi.org/10.48550/arXiv.2603.00857",
+    "doiUrl": "https://doi.org/10.48550/arXiv.2603.00857"
   },
   {
     "year": 2025,
