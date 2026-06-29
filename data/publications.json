@@ -1,6 +1,22 @@
 [
   {
     "year": 2026,
+    "venue": "Systems and Control Transactions",
+    "title": "Development of Symbolic Regression-Based ATR-FTIR Calibration Models",
+    "summary": "Accurate calibration of spectroscopic measurements is essential for reliable real-time monitoring and control of crystallization processes. In this work, calibration strategies for Attenuated Total Reflectance Fourier Transform Infrared (ATR-FTIR) spectroscopy were systematically evaluated for conce",
+    "paperUrl": "https://doi.org/10.69997/sct.169416",
+    "doiUrl": "https://doi.org/10.69997/sct.169416"
+  },
+  {
+    "year": 2026,
+    "venue": "Systems and Control Transactions",
+    "title": "Addressing Matrix Effects Through A Physical Prior-Informed Calibration Model For Quantitative Analysis",
+    "summary": "Building a robust calibration curve is essential for accurate quantification of multicomponent mixtures. Matrix effects can distort the proportional relationship between the analyte concentration and instrumental response. In addition, classical machine learning models do not inherently incorporate ",
+    "paperUrl": "https://doi.org/10.69997/sct.116000",
+    "doiUrl": "https://doi.org/10.69997/sct.116000"
+  },
+  {
+    "year": 2026,
     "venue": "Chemical Engineering Journal",
     "title": "Translucent 3D-printed gyroid structures: A new path towards scalable energy efficient photoreactors",
     "summary": "",
@@ -62,21 +78,5 @@
     "summary": "Photochemical monolith reactors offer advantages over microreactors by providing high mixing efficiency and surface area to volume ratio while being scalable. However, optimizing monolith design parameters like channel number, shape, and stacking is critical to maximizing light usage and reactor eff",
     "paperUrl": "https://doi.org/10.69997/sct.132003",
     "doiUrl": "https://doi.org/10.69997/sct.132003"
-  },
-  {
-    "year": 2025,
-    "venue": "Systems and Control Transactions",
-    "title": "Predicting Surface Tension of Organic Molecules using COSMO-RS Theory and Machine Learning",
-    "summary": "Surface tension is a fundamental property at the liquid/gas interface, influencing phenomena such as capillary action, droplet formation, and interfacial behavior in chemical engineering processes. Despite its significance, experimental determination of surface tension is time-intensive and impracti",
-    "paperUrl": "https://doi.org/10.69997/sct.187062",
-    "doiUrl": "https://doi.org/10.69997/sct.187062"
-  },
-  {
-    "year": 2025,
-    "venue": "Systems and Control Transactions",
-    "title": "Hybrid Models Identification and Training through Evolutionary Algorithms",
-    "summary": "Hybrid modelling is widely employed in chemical engineering to generate highly accurate predictions. Such an approach merges first-principle modelling with machine learning techniques to identify and model the epistemic uncertainty from experimental data. Despite its advantages, this still requires ",
-    "paperUrl": "https://doi.org/10.69997/sct.192790",
-    "doiUrl": "https://doi.org/10.69997/sct.192790"
   }
 ]
