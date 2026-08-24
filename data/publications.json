@@ -1,6 +1,14 @@
 [
   {
     "year": 2026,
+    "venue": "Industrial &amp; Engineering\nChemistry Research",
+    "title": "FRaPPÉ:\nFragrance Raw Materials Performance\nPrediction Explained",
+    "summary": "\n The evaporation and deposition behavior of perfume raw materials in consumer products is governed by their physicochemical interactions across complex matrices, yet current predictive approaches remain empirical and poorly suited to esterquat-based fabric softeners. This work presents a QSPR frame",
+    "paperUrl": "https://doi.org/10.1021/acs.iecr.6c02447",
+    "doiUrl": "https://doi.org/10.1021/acs.iecr.6c02447"
+  },
+  {
+    "year": 2026,
     "venue": "Systems and Control Transactions",
     "title": "Development of Symbolic Regression-Based ATR-FTIR Calibration Models",
     "summary": "Accurate calibration of spectroscopic measurements is essential for reliable real-time monitoring and control of crystallization processes. In this work, calibration strategies for Attenuated Total Reflectance Fourier Transform Infrared (ATR-FTIR) spectroscopy were systematically evaluated for conce",
@@ -70,13 +78,5 @@
     "summary": "Accurate prediction of liquid viscosity is essential for process design and simulation, yet remains challenging for novel molecules. Conventional group-contribution models struggle with isomer discrimination, large molecules, and parameter availability, while purely data-driven graph neural networks",
     "paperUrl": "https://doi.org/10.1016/j.ceja.2026.101129",
     "doiUrl": "https://doi.org/10.1016/j.ceja.2026.101129"
-  },
-  {
-    "year": 2025,
-    "venue": "Chemical Engineering and Processing - Process Intensification",
-    "title": "Physics-informed machine learning predicting CO2 capture performances of organic mixtures",
-    "summary": "",
-    "paperUrl": "https://doi.org/10.1016/j.cep.2025.110410",
-    "doiUrl": "https://doi.org/10.1016/j.cep.2025.110410"
   }
 ]
