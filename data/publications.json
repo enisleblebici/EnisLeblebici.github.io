@@ -9,6 +9,14 @@
   },
   {
     "year": 2026,
+    "venue": "Chemical Engineering Science",
+    "title": "Process flowsheet optimization integrating mixed-integer programming and surrogate models with adaptive uncertainty",
+    "summary": "",
+    "paperUrl": "https://doi.org/10.1016/j.ces.2026.124993",
+    "doiUrl": "https://doi.org/10.1016/j.ces.2026.124993"
+  },
+  {
+    "year": 2026,
     "venue": "Systems and Control Transactions",
     "title": "Development of Symbolic Regression-Based ATR-FTIR Calibration Models",
     "summary": "Accurate calibration of spectroscopic measurements is essential for reliable real-time monitoring and control of crystallization processes. In this work, calibration strategies for Attenuated Total Reflectance Fourier Transform Infrared (ATR-FTIR) spectroscopy were systematically evaluated for conce",
@@ -70,13 +78,5 @@
     "summary": "MultiPUFFIN is a domain-informed multimodal foundation model for predicting thermophysical properties of small molecules, addressing a critical gap in chemical engineering, drug discovery, and materials science. Existing molecular foundation models pretrain on millions of molecules to learn general-",
     "paperUrl": "https://doi.org/10.48550/arXiv.2603.00857",
     "doiUrl": "https://doi.org/10.48550/arXiv.2603.00857"
-  },
-  {
-    "year": 2025,
-    "venue": "Chemical Engineering Journal Advances",
-    "title": "ExPUFFIN: Thermodynamic consistent viscosity prediction in an Extended Path-Unifying Feed-Forward Interfaced Network",
-    "summary": "Accurate prediction of liquid viscosity is essential for process design and simulation, yet remains challenging for novel molecules. Conventional group-contribution models struggle with isomer discrimination, large molecules, and parameter availability, while purely data-driven graph neural networks",
-    "paperUrl": "https://doi.org/10.1016/j.ceja.2026.101129",
-    "doiUrl": "https://doi.org/10.1016/j.ceja.2026.101129"
   }
 ]
